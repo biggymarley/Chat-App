@@ -11,7 +11,7 @@ function App() {
 const root = {
   minHeight:"100vh",
   display:"flex",
-  alignItems:"center"
+  alignItems:"center",
 }
 
 export default App;

@@ -121,6 +121,7 @@ const classes = {
   ChatsBox: {
     maxHeight: "calc(100vh - 14.56rem)",
     overflow: "auto",
+    
     "&::-webkit-scrollbar": {
         width: "3px",
     },

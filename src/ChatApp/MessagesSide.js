@@ -183,7 +183,7 @@ const classes = {
     borderRadius: "2rem 0 0 2rem",
   },
   StackMsgs: {
-    padding: "16px 0",
+
     height: "calc(100vh - 16rem)",
     borderBottom: "1px solid rgba(0, 0, 0, 0.12)",
     overflow: "auto",
